@@ -50,6 +50,7 @@ Singleplayermode
 <br>
 <br>
 ![Screenshot3](/images/Screenshot_Mastermind_Multiplayer.png) 
+<br>
 Multiplayermode - Player selection
 <br>
 <br>
@@ -58,10 +59,11 @@ Multiplayermode - Player selection
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 
 <!-- CONTACT -->
