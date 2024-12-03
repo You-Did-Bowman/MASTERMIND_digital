@@ -41,6 +41,18 @@ However, I used chalk and prompt-synch to make the outputs in the appointment mo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Screenshots
+![Screenshot1](/images/Screenshot_Mastermind_instructions.png) 
+Instructions
+<br>
+<br>
+![Screenshot2](/images/Screenshot_Mastermind_Singleplayer.png) 
+Singleplayermode
+<br>
+<br>
+![Screenshot3](/images/Screenshot_Mastermind_Multiplayer.png) 
+Multiplayermode - Player selection
+<br>
+<br>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
