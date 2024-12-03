@@ -73,6 +73,6 @@ Judith Bohmann
 <br><br>
 Mail: ju.bohmann@gmx.de
 <br><br>
-Repo-Link: <a href="https://github.com/You-Did-Bowman/JavaScript-Practice"> github.com/You-Did-Bowman/JavaScript-Practice</a>
+Repo-Link: <a href="https://github.com/You-Did-Bowman/MASTERMIND_digital"> github.com/You-Did-Bowman/MASTERMIND_digital</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
